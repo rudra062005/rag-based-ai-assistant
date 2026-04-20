@@ -1,0 +1,684 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Hello friends, welcome to the part 3 of the computer training course."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 3.0,
+            "end": 7.0,
+            "text": " In the last video, we learned the basics of the taskbar."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 7.0,
+            "end": 11.0,
+            "text": " Today we will learn how to cover in the taskbar and multitasking magic."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 11.0,
+            "end": 14.0,
+            "text": " Today you will learn to fully customize your computer."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 14.0,
+            "end": 17.0,
+            "text": " Let's start the video without wasting time."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 17.0,
+            "end": 22.0,
+            "text": " Friends, instead of going inside the taskbar setting, there is also a shortcut."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 22.0,
+            "end": 26.0,
+            "text": " Just right click on any empty space in the taskbar."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 26.0,
+            "end": 29.0,
+            "text": " This list is called the context menu."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 29.0,
+            "end": 35.0,
+            "text": " There are some tricks hidden in it that will organize your scattered work in a second."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 35.0,
+            "end": 41.0,
+            "text": " First of all, if your taskbar is full, then clean it."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 41.0,
+            "end": 48.0,
+            "text": " If the search bar is taking a lot of space, then go to search and show search icon or headon."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 48.0,
+            "end": 50.0,
+            "text": " Space will be saved."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 51.0,
+            "end": 58.0,
+            "text": " If you don't want to see weather and news below, then turn off news and interest."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 58.0,
+            "end": 61.0,
+            "text": " If you want, then turn on from here."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 61.0,
+            "end": 65.0,
+            "text": " Now let's come to the most useful feature of the menu, Windows Management."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 65.0,
+            "end": 71.0,
+            "text": " Suppose you have opened 4-5 programs and there is a mess on the screen."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 71.0,
+            "end": 73.0,
+            "text": " Don't set each one."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 73.0,
+            "end": 77.0,
+            "text": " Just right click on the taskbar and see the three options."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 77.0,
+            "end": 78.0,
+            "text": " Cascade Windows"
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 78.0,
+            "end": 84.0,
+            "text": " As soon as you click on it, all the windows will be set one after the other like a crown."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 84.0,
+            "end": 88.0,
+            "text": " Then this option is show windows stack."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 88.0,
+            "end": 91.0,
+            "text": " This will set the windows up and down."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 91.0,
+            "end": 94.0,
+            "text": " But my favorite is show windows side by side."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 94.0,
+            "end": 99.0,
+            "text": " Imagine you have to type something in the word by searching for data from Chrome."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 99.0,
+            "end": 101.0,
+            "text": " Just keep both open."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 101.0,
+            "end": 105.0,
+            "text": " Right click and press show windows side by side."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 105.0,
+            "end": 109.0,
+            "text": " The computer will automatically split the screen."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 109.0,
+            "end": 115.0,
+            "text": " This feature saves a lot of time while doing data entry or research in corporate life."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 115.0,
+            "end": 122.0,
+            "text": " If you have opened a lot of files and suddenly you need a file on the desktop,"
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 122.0,
+            "end": 125.0,
+            "text": " then don't waste time in minimizing everyone."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 125.0,
+            "end": 128.0,
+            "text": " Just click on show the desktop."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 128.0,
+            "end": 132.0,
+            "text": " All windows will sit down together and the desktop will be clearly visible."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 132.0,
+            "end": 134.0,
+            "text": " There is also a shortcut for this, Windows D."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 134.0,
+            "end": 138.0,
+            "text": " Come to the desktop and the last one is task manager."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 138.0,
+            "end": 144.0,
+            "text": " If your computer hangs and no software is being closed, then don't worry."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 144.0,
+            "end": 147.0,
+            "text": " Right click and open task manager."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 147.0,
+            "end": 153.0,
+            "text": " Select the program that is bothering you, right click and do the end task."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 153.0,
+            "end": 155.0,
+            "text": " The computer will go back to normal."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 155.0,
+            "end": 162.0,
+            "text": " If you want to master the taskbar in real meaning, then it is very important to learn the keyboard shortcut."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 162.0,
+            "end": 164.0,
+            "text": " It doubles your speed."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 164.0,
+            "end": 168.0,
+            "text": " Windows D will move on the icon of the taskbar."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 168.0,
+            "end": 171.0,
+            "text": " Windows 1 will open the pin app."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 171.0,
+            "end": 175.0,
+            "text": " Similarly, if we want to open another pin app, then Windows 2."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 175.0,
+            "end": 179.0,
+            "text": " Windows D to show and hide the desktop."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 179.0,
+            "end": 183.0,
+            "text": " Alt plus tab to switch between open windows."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 183.0,
+            "end": 187.0,
+            "text": " This shortcut is a game changer for office and corporate life."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 187.0,
+            "end": 192.0,
+            "text": " Now let's come to the most interesting part of this video, taskbar customization."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 192.0,
+            "end": 196.0,
+            "text": " Don't you like the color of the strip below or the place?"
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 196.0,
+            "end": 198.0,
+            "text": " Are the icons looking too big?"
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 198.0,
+            "end": 202.0,
+            "text": " Let's set it completely according to our own."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 202.0,
+            "end": 208.0,
+            "text": " First of all, right click on a blank space on the taskbar and go to the taskbar setting."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 208.0,
+            "end": 211.0,
+            "text": " The first option here is lock the taskbar."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 211.0,
+            "end": 213.0,
+            "text": " Let's understand the logic of this."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 213.0,
+            "end": 217.0,
+            "text": " If it is on, then it will stick to the taskbar like a phoenix."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 217.0,
+            "end": 219.0,
+            "text": " You can't move it."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 219.0,
+            "end": 225.0,
+            "text": " If you turn it off, then you can pull it by pressing the left button of the mouse."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 225.0,
+            "end": 226.0,
+            "text": " See I unlocked it."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 226.0,
+            "end": 234.0,
+            "text": " Now I can press the left button of the mouse and take it to the top right or left."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 234.0,
+            "end": 239.0,
+            "text": " Many designers and coders like to keep it on the side or top."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 239.0,
+            "end": 245.0,
+            "text": " But for now, we put it back down and lock it so that it doesn't move by mistake."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 245.0,
+            "end": 251.0,
+            "text": " If you don't want to drag, then there is also an option of taskbar location on screen."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 251.0,
+            "end": 256.0,
+            "text": " Here you can select bottom, top, left or right from the drop-down."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 256.0,
+            "end": 258.0,
+            "text": " After this, there are two amazing options."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 258.0,
+            "end": 261.0,
+            "text": " Automatically hide the taskbar."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 261.0,
+            "end": 264.0,
+            "text": " By turning it on, the taskbar will disappear."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 264.0,
+            "end": 267.0,
+            "text": " When you bring the mouse down, it will be visible."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 267.0,
+            "end": 272.0,
+            "text": " If you like to work on full screen, then this option is for you."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 272.0,
+            "end": 279.0,
+            "text": " If there are many software pins on your taskbar and there is less space, then turn it on."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 279.0,
+            "end": 281.0,
+            "text": " This will make the icons smaller."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 281.0,
+            "end": 285.0,
+            "text": " Now a very important setting, notification area icons."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 285.0,
+            "end": 290.0,
+            "text": " Sometimes important icons like network or volume are hidden by mistake."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 291.0,
+            "end": 297.0,
+            "text": " Now if we want to turn them back on or remove some icons or add some new ones,"
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 297.0,
+            "end": 300.0,
+            "text": " then how do we do that? Let's see."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 300.0,
+            "end": 306.0,
+            "text": " For this, scroll down and click on select which icons appear on the taskbar."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 306.0,
+            "end": 309.0,
+            "text": " Here you will get a list of all icons."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 309.0,
+            "end": 315.0,
+            "text": " Turn on the one you want to show and turn off the one you want to hide."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 315.0,
+            "end": 321.0,
+            "text": " Now to go back to this setting, click on this arrow or press the backspace button."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 321.0,
+            "end": 325.0,
+            "text": " Now the most interesting thing is how to change the color of the taskbar."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 325.0,
+            "end": 327.0,
+            "text": " Let's see."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 327.0,
+            "end": 330.0,
+            "text": " For this, click on colors on the left side."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 330.0,
+            "end": 332.0,
+            "text": " Pay attention here, this is very important."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 332.0,
+            "end": 340.0,
+            "text": " If there is a light selector in choose your color, then the color of the taskbar will not change in Windows 10 or 11."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 340.0,
+            "end": 342.0,
+            "text": " The option will remain disabled."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 342.0,
+            "end": 347.0,
+            "text": " To change the color, select custom or dark in choose your color."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 347.0,
+            "end": 352.0,
+            "text": " Scroll down a bit and choose your favorite color from choose your accent color."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 352.0,
+            "end": 361.0,
+            "text": " Like blue, red, green and the last step, tick on the start, taskbar and action center box at the bottom."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 361.0,
+            "end": 368.0,
+            "text": " Now see your taskbar, start menu and action center, all the background colors have changed."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 368.0,
+            "end": 372.0,
+            "text": " Now your computer is completely professional and personalized."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 372.0,
+            "end": 375.0,
+            "text": " So friends, this was the complete A to Z training of the taskbar."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 375.0,
+            "end": 382.0,
+            "text": " From the search box to the virtual desktop, action center, shortcuts and full customization."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 382.0,
+            "end": 391.0,
+            "text": " If you have watched this video carefully, then now you will be able to use the computer more fast, smart and professionally than before."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 391.0,
+            "end": 394.0,
+            "text": " So you keep practicing, keep watching the video again and again."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 394.0,
+            "end": 398.0,
+            "text": " And if you need anything, then the comment box is open for you."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 398.0,
+            "end": 403.0,
+            "text": " And tell by commenting which feature of the taskbar you are going to use the most."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 403.0,
+            "end": 406.0,
+            "text": " If you found the video helpful, then do like it."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 406.0,
+            "end": 414.0,
+            "text": " Subscribe to the GIS Tech Guru channel because here the computer is taught in simple Hindi, step by step."
+        },
+        {
+            "number": "3",
+            "title": "Class",
+            "start": 414.0,
+            "end": 417.0,
+            "text": " See you in the next video, till then bye."
+        }
+    ],
+    "text": " Hello friends, welcome to the part 3 of the computer training course. In the last video, we learned the basics of the taskbar. Today we will learn how to cover in the taskbar and multitasking magic. Today you will learn to fully customize your computer. Let's start the video without wasting time. Friends, instead of going inside the taskbar setting, there is also a shortcut. Just right click on any empty space in the taskbar. This list is called the context menu. There are some tricks hidden in it that will organize your scattered work in a second. First of all, if your taskbar is full, then clean it. If the search bar is taking a lot of space, then go to search and show search icon or headon. Space will be saved. If you don't want to see weather and news below, then turn off news and interest. If you want, then turn on from here. Now let's come to the most useful feature of the menu, Windows Management. Suppose you have opened 4-5 programs and there is a mess on the screen. Don't set each one. Just right click on the taskbar and see the three options. Cascade Windows As soon as you click on it, all the windows will be set one after the other like a crown. Then this option is show windows stack. This will set the windows up and down. But my favorite is show windows side by side. Imagine you have to type something in the word by searching for data from Chrome. Just keep both open. Right click and press show windows side by side. The computer will automatically split the screen. This feature saves a lot of time while doing data entry or research in corporate life. If you have opened a lot of files and suddenly you need a file on the desktop, then don't waste time in minimizing everyone. Just click on show the desktop. All windows will sit down together and the desktop will be clearly visible. There is also a shortcut for this, Windows D. Come to the desktop and the last one is task manager. If your computer hangs and no software is being closed, then don't worry. Right click and open task manager. Select the program that is bothering you, right click and do the end task. The computer will go back to normal. If you want to master the taskbar in real meaning, then it is very important to learn the keyboard shortcut. It doubles your speed. Windows D will move on the icon of the taskbar. Windows 1 will open the pin app. Similarly, if we want to open another pin app, then Windows 2. Windows D to show and hide the desktop. Alt plus tab to switch between open windows. This shortcut is a game changer for office and corporate life. Now let's come to the most interesting part of this video, taskbar customization. Don't you like the color of the strip below or the place? Are the icons looking too big? Let's set it completely according to our own. First of all, right click on a blank space on the taskbar and go to the taskbar setting. The first option here is lock the taskbar. Let's understand the logic of this. If it is on, then it will stick to the taskbar like a phoenix. You can't move it. If you turn it off, then you can pull it by pressing the left button of the mouse. See I unlocked it. Now I can press the left button of the mouse and take it to the top right or left. Many designers and coders like to keep it on the side or top. But for now, we put it back down and lock it so that it doesn't move by mistake. If you don't want to drag, then there is also an option of taskbar location on screen. Here you can select bottom, top, left or right from the drop-down. After this, there are two amazing options. Automatically hide the taskbar. By turning it on, the taskbar will disappear. When you bring the mouse down, it will be visible. If you like to work on full screen, then this option is for you. If there are many software pins on your taskbar and there is less space, then turn it on. This will make the icons smaller. Now a very important setting, notification area icons. Sometimes important icons like network or volume are hidden by mistake. Now if we want to turn them back on or remove some icons or add some new ones, then how do we do that? Let's see. For this, scroll down and click on select which icons appear on the taskbar. Here you will get a list of all icons. Turn on the one you want to show and turn off the one you want to hide. Now to go back to this setting, click on this arrow or press the backspace button. Now the most interesting thing is how to change the color of the taskbar. Let's see. For this, click on colors on the left side. Pay attention here, this is very important. If there is a light selector in choose your color, then the color of the taskbar will not change in Windows 10 or 11. The option will remain disabled. To change the color, select custom or dark in choose your color. Scroll down a bit and choose your favorite color from choose your accent color. Like blue, red, green and the last step, tick on the start, taskbar and action center box at the bottom. Now see your taskbar, start menu and action center, all the background colors have changed. Now your computer is completely professional and personalized. So friends, this was the complete A to Z training of the taskbar. From the search box to the virtual desktop, action center, shortcuts and full customization. If you have watched this video carefully, then now you will be able to use the computer more fast, smart and professionally than before. So you keep practicing, keep watching the video again and again. And if you need anything, then the comment box is open for you. And tell by commenting which feature of the taskbar you are going to use the most. If you found the video helpful, then do like it. Subscribe to the GIS Tech Guru channel because here the computer is taught in simple Hindi, step by step. See you in the next video, till then bye."
+}

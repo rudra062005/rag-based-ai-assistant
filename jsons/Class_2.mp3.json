@@ -1,0 +1,1314 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Hello friends, welcome to the part 2 of the computer training course."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 4.0,
+            "end": 9.0,
+            "text": " Today we are going to master the backbone of the computer i.e. the taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 9.0,
+            "end": 13.0,
+            "text": " In this video, you will get the complete practical training of the taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 13.0,
+            "end": 19.0,
+            "text": " We will understand all the options step by step and will also see them in real."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 19.0,
+            "end": 23.0,
+            "text": " Today you will learn all the tools and icons of the taskbar,"
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 23.0,
+            "end": 26.0,
+            "text": " how to customize the taskbar as per your needs,"
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 26.0,
+            "end": 29.0,
+            "text": " how to make the size of the icon small or large,"
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 29.0,
+            "end": 31.0,
+            "text": " how to connect the internet to the computer,"
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 31.0,
+            "end": 34.0,
+            "text": " how to use the search box properly,"
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 34.0,
+            "end": 36.0,
+            "text": " and many more tasks."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 36.0,
+            "end": 42.0,
+            "text": " In simple words, after this video, you will be able to control your computer in a completely new way."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 42.0,
+            "end": 47.0,
+            "text": " But before starting the video, a small but very special thing,"
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 47.0,
+            "end": 52.0,
+            "text": " Thanks to all the friends who subscribe to GIS Tech Guru."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 52.0,
+            "end": 55.0,
+            "text": " Due to your love, trust and continuous support,"
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 55.0,
+            "end": 60.0,
+            "text": " today we have completed the milestone of 250 subscribers."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 60.0,
+            "end": 62.0,
+            "text": " This journey was not possible without you."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 62.0,
+            "end": 69.0,
+            "text": " I am sure that with your support, we will soon reach 1000, 2000 and beyond."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 69.0,
+            "end": 73.0,
+            "text": " Once again, thank you so much for your incredible support"
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 73.0,
+            "end": 76.0,
+            "text": " and truly appreciate each and every one of you."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 76.0,
+            "end": 78.0,
+            "text": " Let's start the video without wasting time."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 78.0,
+            "end": 85.0,
+            "text": " Friends, the strip that you see just below your desktop screen is called the taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 85.0,
+            "end": 89.0,
+            "text": " It is not just a line, but a control center for windows."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 89.0,
+            "end": 93.0,
+            "text": " If you work in the office or do multitasking,"
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 93.0,
+            "end": 98.0,
+            "text": " then the hidden features of the taskbar can do your work in minutes."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 98.0,
+            "end": 101.0,
+            "text": " We have learned about the start button in the last video."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 101.0,
+            "end": 105.0,
+            "text": " Today we will master the rest of the options of the taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 105.0,
+            "end": 109.0,
+            "text": " First of all, come to this search box next to the start button."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 109.0,
+            "end": 113.0,
+            "text": " Many people think that this is just to find the file."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 113.0,
+            "end": 117.0,
+            "text": " But it works like an assistant in corporate life."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 117.0,
+            "end": 127.0,
+            "text": " Its basic use is that you type any program like chrome, excel, file or setting name and enter it."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 127.0,
+            "end": 128.0,
+            "text": " It will open immediately."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 128.0,
+            "end": 130.0,
+            "text": " There is no need to move the mouse."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 130.0,
+            "end": 131.0,
+            "text": " Let me tell you a pro tip."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 131.0,
+            "end": 137.0,
+            "text": " Suppose you are working on excel and you want to do a calculation quickly."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 137.0,
+            "end": 139.0,
+            "text": " Do not open the calculator."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 139.0,
+            "end": 141.0,
+            "text": " Type directly in the search box."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 141.0,
+            "end": 145.0,
+            "text": " 55 x 20 and see the result will come there."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 145.0,
+            "end": 147.0,
+            "text": " We can also do a web search from here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 147.0,
+            "end": 150.0,
+            "text": " For this, it is necessary to have internet connection in the computer."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 150.0,
+            "end": 152.0,
+            "text": " So type directly here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 152.0,
+            "end": 154.0,
+            "text": " GIS Tech Guru YouTube channel."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 154.0,
+            "end": 156.0,
+            "text": " As soon as you press enter, the result will come in front of you."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 157.0,
+            "end": 163.0,
+            "text": " You have to search something else like UHD to INR or smart way to save time."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 163.0,
+            "end": 167.0,
+            "text": " Now let's come to this small icon called task view."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 167.0,
+            "end": 172.0,
+            "text": " If you work by opening 10 windows at the same time, then this feature is for you."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 172.0,
+            "end": 177.0,
+            "text": " As soon as you click it, all your open windows come together."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 177.0,
+            "end": 180.0,
+            "text": " You can easily choose which one to go to."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 180.0,
+            "end": 182.0,
+            "text": " It also has a shortcut."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 183.0,
+            "end": 186.0,
+            "text": " You can also go to your open windows from here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 186.0,
+            "end": 190.0,
+            "text": " But its most powerful feature is the new desktop."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 190.0,
+            "end": 191.0,
+            "text": " That is virtual desktop."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 191.0,
+            "end": 194.0,
+            "text": " Imagine you are doing heavy work at the office."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 194.0,
+            "end": 196.0,
+            "text": " Excel, PPT, AutoCAD is open."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 196.0,
+            "end": 200.0,
+            "text": " And you have to do personal browsing with a little break."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 200.0,
+            "end": 201.0,
+            "text": " Do not minimize everything."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 201.0,
+            "end": 203.0,
+            "text": " Just click on new desktop."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 203.0,
+            "end": 207.0,
+            "text": " Now it has become a completely new and clean computer."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 207.0,
+            "end": 209.0,
+            "text": " Desktop 1 office work."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 209.0,
+            "end": 210.0,
+            "text": " Boss safe zone."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 210.0,
+            "end": 212.0,
+            "text": " Desktop 2 personal work."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 212.0,
+            "end": 215.0,
+            "text": " You can listen to any browsing music here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 215.0,
+            "end": 219.0,
+            "text": " You can switch from office mode to relax mode in one click."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 219.0,
+            "end": 221.0,
+            "text": " Without closing the windows."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 221.0,
+            "end": 225.0,
+            "text": " Corporate professionals use it to increase their focus."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 225.0,
+            "end": 231.0,
+            "text": " After the search box, this big part is called the quick launch or pin app area."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 231.0,
+            "end": 235.0,
+            "text": " Here you can see all the open software folders."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 236.0,
+            "end": 239.0,
+            "text": " And the software you use daily."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 239.0,
+            "end": 242.0,
+            "text": " Like Chrome, Excel, AutoCAD, ArcGIS."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 242.0,
+            "end": 246.0,
+            "text": " Why waste time in searching and opening them again and again."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 246.0,
+            "end": 248.0,
+            "text": " We can pin them here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 248.0,
+            "end": 252.0,
+            "text": " And when you want to open, the software will open directly with a single click."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 252.0,
+            "end": 254.0,
+            "text": " Let's see how."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 254.0,
+            "end": 257.0,
+            "text": " Suppose I need Excel a lot."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 257.0,
+            "end": 259.0,
+            "text": " Type Excel in the search box."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 259.0,
+            "end": 260.0,
+            "text": " Right click on the mouse."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 260.0,
+            "end": 262.0,
+            "text": " And select pin to taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 262.0,
+            "end": 263.0,
+            "text": " Boom."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 263.0,
+            "end": 266.0,
+            "text": " Now the Excel icon will always be on your taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 266.0,
+            "end": 270.0,
+            "text": " Now you can open it at any time with a single click."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 270.0,
+            "end": 273.0,
+            "text": " And there is another way to pin the software here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 273.0,
+            "end": 276.0,
+            "text": " Suppose I opened MS Word from here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 276.0,
+            "end": 278.0,
+            "text": " After this, I will right click here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 278.0,
+            "end": 280.0,
+            "text": " So see here is the option, pin to taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 280.0,
+            "end": 282.0,
+            "text": " We can also pin from here to the taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 282.0,
+            "end": 285.0,
+            "text": " But it is important to understand a technical thing here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 285.0,
+            "end": 290.0,
+            "text": " How to find out if the software is only pin or actually open."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 290.0,
+            "end": 292.0,
+            "text": " Look carefully, I opened file explorer."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 292.0,
+            "end": 296.0,
+            "text": " As soon as it opened, a small blue line came under the icon."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 296.0,
+            "end": 299.0,
+            "text": " Blue line means the program is active."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 299.0,
+            "end": 301.0,
+            "text": " That means it is running in the RAM."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 301.0,
+            "end": 304.0,
+            "text": " If I minimize it, the window will hide."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 304.0,
+            "end": 306.0,
+            "text": " But the blue line will remain there."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 306.0,
+            "end": 309.0,
+            "text": " This means the work is still going on in the background."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 309.0,
+            "end": 310.0,
+            "text": " It is not closed."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 310.0,
+            "end": 314.0,
+            "text": " If I close it from here, now see the blue line is gone."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 314.0,
+            "end": 316.0,
+            "text": " This means the program is completely closed."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 316.0,
+            "end": 318.0,
+            "text": " A small pro tip."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 318.0,
+            "end": 321.0,
+            "text": " You can also set these icons according to your own."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 321.0,
+            "end": 324.0,
+            "text": " Just press and hold the left click with the mouse."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 324.0,
+            "end": 327.0,
+            "text": " And drag and set it wherever you want."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 327.0,
+            "end": 329.0,
+            "text": " Keep your important program at the forefront."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 329.0,
+            "end": 333.0,
+            "text": " If your taskbar is full but the software is important."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 333.0,
+            "end": 336.0,
+            "text": " Then you can pin it in the start menu."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 336.0,
+            "end": 337.0,
+            "text": " The process is the same."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 337.0,
+            "end": 342.0,
+            "text": " Search, right click and this time choose pin to start."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 342.0,
+            "end": 344.0,
+            "text": " Now when you press the start button,"
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 344.0,
+            "end": 348.0,
+            "text": " that software will be visible to you as a tile in front."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 348.0,
+            "end": 351.0,
+            "text": " And it will turn on as soon as you click left."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 351.0,
+            "end": 354.0,
+            "text": " And yes, if any software is not necessary now."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 354.0,
+            "end": 356.0,
+            "text": " And it is increasing the crowd."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 356.0,
+            "end": 358.0,
+            "text": " Then it should also be removed."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 358.0,
+            "end": 362.0,
+            "text": " Right click on the icon and unpin from the taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 362.0,
+            "end": 364.0,
+            "text": " It will move from there."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 364.0,
+            "end": 366.0,
+            "text": " But it will not be deleted from the computer."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 366.0,
+            "end": 368.0,
+            "text": " So friends, organize your taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 368.0,
+            "end": 370.0,
+            "text": " And increase your speed."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 370.0,
+            "end": 373.0,
+            "text": " Now we come to the far right side of the taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 373.0,
+            "end": 376.0,
+            "text": " This is called the notification area or system tray."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 376.0,
+            "end": 379.0,
+            "text": " This is your PC's health monitor."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 379.0,
+            "end": 382.0,
+            "text": " First of all, this small arrow is visible."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 382.0,
+            "end": 385.0,
+            "text": " By clicking it, you can see the software."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 385.0,
+            "end": 388.0,
+            "text": " Which is quietly running in the background."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 388.0,
+            "end": 390.0,
+            "text": " After this, this is the battery icon."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 390.0,
+            "end": 392.0,
+            "text": " Most important for the laptop user."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 392.0,
+            "end": 396.0,
+            "text": " Click it and check how much battery is left."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 396.0,
+            "end": 399.0,
+            "text": " So that the laptop does not shut down during the meeting."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 399.0,
+            "end": 402.0,
+            "text": " Next to it is the network and internet icon."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 402.0,
+            "end": 406.0,
+            "text": " If you want to connect the office's wifi or mobile hotspot."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 406.0,
+            "end": 408.0,
+            "text": " Then click here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 408.0,
+            "end": 410.0,
+            "text": " Click on the network icon."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 410.0,
+            "end": 412.0,
+            "text": " Then turn on the wifi from here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 412.0,
+            "end": 414.0,
+            "text": " Select your network."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 414.0,
+            "end": 416.0,
+            "text": " Enter the password and connect."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 416.0,
+            "end": 418.0,
+            "text": " Now your PC is connected to the internet."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 418.0,
+            "end": 420.0,
+            "text": " There is an airplane mode nearby."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 420.0,
+            "end": 422.0,
+            "text": " To close all networks."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 422.0,
+            "end": 424.0,
+            "text": " And there is a mobile hotspot option."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 424.0,
+            "end": 426.0,
+            "text": " To share the PC's net."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 426.0,
+            "end": 429.0,
+            "text": " Let's move on to the speaker icon."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 429.0,
+            "end": 433.0,
+            "text": " From here you can increase or decrease the volume."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 433.0,
+            "end": 435.0,
+            "text": " And if you type Hindi-English."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 435.0,
+            "end": 437.0,
+            "text": " Then this English icon."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 437.0,
+            "end": 440.0,
+            "text": " Is to change your keyboard layout."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 440.0,
+            "end": 443.0,
+            "text": " After that, the time and date is shown here."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 443.0,
+            "end": 446.0,
+            "text": " You can click here and see the calendar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 446.0,
+            "end": 450.0,
+            "text": " We will understand about this in detail in the next video."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 450.0,
+            "end": 451.0,
+            "text": " Now let's move on."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 451.0,
+            "end": 454.0,
+            "text": " See this message icon in the corner."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 454.0,
+            "end": 457.0,
+            "text": " As soon as you click on it, the action center opens."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 457.0,
+            "end": 462.0,
+            "text": " Here you will see all the notifications, emails, updates."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 462.0,
+            "end": 464.0,
+            "text": " And below is the quick action."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 464.0,
+            "end": 467.0,
+            "text": " If you click on expand, then all the options will be visible."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 467.0,
+            "end": 470.0,
+            "text": " Let's know some of the useful options from this."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 470.0,
+            "end": 471.0,
+            "text": " Battery saver."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 471.0,
+            "end": 473.0,
+            "text": " To increase the battery life."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 473.0,
+            "end": 475.0,
+            "text": " Screen brightness will be reduced a little."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 475.0,
+            "end": 476.0,
+            "text": " Or there is a Bluetooth option."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 476.0,
+            "end": 479.0,
+            "text": " Wireless mouse or headphone to connect."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 479.0,
+            "end": 481.0,
+            "text": " Or there is an option of night light."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 481.0,
+            "end": 483.0,
+            "text": " If you work late at night."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 483.0,
+            "end": 485.0,
+            "text": " Then turn it on."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 485.0,
+            "end": 488.0,
+            "text": " This will reduce the blue light of the screen."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 488.0,
+            "end": 490.0,
+            "text": " So that there is no strain on the eyes."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 490.0,
+            "end": 491.0,
+            "text": " And now a pro tip."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 491.0,
+            "end": 493.0,
+            "text": " Here is the option of screen snip."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 493.0,
+            "end": 494.0,
+            "text": " But leave the mouse."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 494.0,
+            "end": 496.0,
+            "text": " Press on the keyboard."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 496.0,
+            "end": 498.0,
+            "text": " Windows plus shift plus S."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 498.0,
+            "end": 501.0,
+            "text": " This shortcut is the favorite of corporate life."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 501.0,
+            "end": 503.0,
+            "text": " Take a screenshot of anything."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 503.0,
+            "end": 506.0,
+            "text": " And immediately paste it on mail or chat."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 506.0,
+            "end": 509.0,
+            "text": " From here you can control the screen brightness."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 509.0,
+            "end": 512.0,
+            "text": " If you lift the slider, the light is less."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 512.0,
+            "end": 514.0,
+            "text": " If you do right, the light is more."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 514.0,
+            "end": 516.0,
+            "text": " Set it according to the comfort of your eyes."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 516.0,
+            "end": 520.0,
+            "text": " So friends, today we understood the tools and their use of taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 520.0,
+            "end": 522.0,
+            "text": " But now change the look of the taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 522.0,
+            "end": 525.0,
+            "text": " And advanced windows management is left."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 525.0,
+            "end": 527.0,
+            "text": " The video is getting a little long."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 527.0,
+            "end": 529.0,
+            "text": " So in the next video we will learn."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 529.0,
+            "end": 531.0,
+            "text": " Change the color of the taskbar."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 531.0,
+            "end": 533.0,
+            "text": " Move it to the top or side."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 533.0,
+            "end": 535.0,
+            "text": " And increase the speed with keyboard shortcuts."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 535.0,
+            "end": 537.0,
+            "text": " Don't miss that video."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 537.0,
+            "end": 539.0,
+            "text": " If you like the video, then like it."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 539.0,
+            "end": 541.0,
+            "text": " And subscribe to the channel."
+        },
+        {
+            "number": "2",
+            "title": "Class",
+            "start": 541.0,
+            "end": 543.0,
+            "text": " See you in the next video."
+        }
+    ],
+    "text": " Hello friends, welcome to the part 2 of the computer training course. Today we are going to master the backbone of the computer i.e. the taskbar. In this video, you will get the complete practical training of the taskbar. We will understand all the options step by step and will also see them in real. Today you will learn all the tools and icons of the taskbar, how to customize the taskbar as per your needs, how to make the size of the icon small or large, how to connect the internet to the computer, how to use the search box properly, and many more tasks. In simple words, after this video, you will be able to control your computer in a completely new way. But before starting the video, a small but very special thing, Thanks to all the friends who subscribe to GIS Tech Guru. Due to your love, trust and continuous support, today we have completed the milestone of 250 subscribers. This journey was not possible without you. I am sure that with your support, we will soon reach 1000, 2000 and beyond. Once again, thank you so much for your incredible support and truly appreciate each and every one of you. Let's start the video without wasting time. Friends, the strip that you see just below your desktop screen is called the taskbar. It is not just a line, but a control center for windows. If you work in the office or do multitasking, then the hidden features of the taskbar can do your work in minutes. We have learned about the start button in the last video. Today we will master the rest of the options of the taskbar. First of all, come to this search box next to the start button. Many people think that this is just to find the file. But it works like an assistant in corporate life. Its basic use is that you type any program like chrome, excel, file or setting name and enter it. It will open immediately. There is no need to move the mouse. Let me tell you a pro tip. Suppose you are working on excel and you want to do a calculation quickly. Do not open the calculator. Type directly in the search box. 55 x 20 and see the result will come there. We can also do a web search from here. For this, it is necessary to have internet connection in the computer. So type directly here. GIS Tech Guru YouTube channel. As soon as you press enter, the result will come in front of you. You have to search something else like UHD to INR or smart way to save time. Now let's come to this small icon called task view. If you work by opening 10 windows at the same time, then this feature is for you. As soon as you click it, all your open windows come together. You can easily choose which one to go to. It also has a shortcut. You can also go to your open windows from here. But its most powerful feature is the new desktop. That is virtual desktop. Imagine you are doing heavy work at the office. Excel, PPT, AutoCAD is open. And you have to do personal browsing with a little break. Do not minimize everything. Just click on new desktop. Now it has become a completely new and clean computer. Desktop 1 office work. Boss safe zone. Desktop 2 personal work. You can listen to any browsing music here. You can switch from office mode to relax mode in one click. Without closing the windows. Corporate professionals use it to increase their focus. After the search box, this big part is called the quick launch or pin app area. Here you can see all the open software folders. And the software you use daily. Like Chrome, Excel, AutoCAD, ArcGIS. Why waste time in searching and opening them again and again. We can pin them here. And when you want to open, the software will open directly with a single click. Let's see how. Suppose I need Excel a lot. Type Excel in the search box. Right click on the mouse. And select pin to taskbar. Boom. Now the Excel icon will always be on your taskbar. Now you can open it at any time with a single click. And there is another way to pin the software here. Suppose I opened MS Word from here. After this, I will right click here. So see here is the option, pin to taskbar. We can also pin from here to the taskbar. But it is important to understand a technical thing here. How to find out if the software is only pin or actually open. Look carefully, I opened file explorer. As soon as it opened, a small blue line came under the icon. Blue line means the program is active. That means it is running in the RAM. If I minimize it, the window will hide. But the blue line will remain there. This means the work is still going on in the background. It is not closed. If I close it from here, now see the blue line is gone. This means the program is completely closed. A small pro tip. You can also set these icons according to your own. Just press and hold the left click with the mouse. And drag and set it wherever you want. Keep your important program at the forefront. If your taskbar is full but the software is important. Then you can pin it in the start menu. The process is the same. Search, right click and this time choose pin to start. Now when you press the start button, that software will be visible to you as a tile in front. And it will turn on as soon as you click left. And yes, if any software is not necessary now. And it is increasing the crowd. Then it should also be removed. Right click on the icon and unpin from the taskbar. It will move from there. But it will not be deleted from the computer. So friends, organize your taskbar. And increase your speed. Now we come to the far right side of the taskbar. This is called the notification area or system tray. This is your PC's health monitor. First of all, this small arrow is visible. By clicking it, you can see the software. Which is quietly running in the background. After this, this is the battery icon. Most important for the laptop user. Click it and check how much battery is left. So that the laptop does not shut down during the meeting. Next to it is the network and internet icon. If you want to connect the office's wifi or mobile hotspot. Then click here. Click on the network icon. Then turn on the wifi from here. Select your network. Enter the password and connect. Now your PC is connected to the internet. There is an airplane mode nearby. To close all networks. And there is a mobile hotspot option. To share the PC's net. Let's move on to the speaker icon. From here you can increase or decrease the volume. And if you type Hindi-English. Then this English icon. Is to change your keyboard layout. After that, the time and date is shown here. You can click here and see the calendar. We will understand about this in detail in the next video. Now let's move on. See this message icon in the corner. As soon as you click on it, the action center opens. Here you will see all the notifications, emails, updates. And below is the quick action. If you click on expand, then all the options will be visible. Let's know some of the useful options from this. Battery saver. To increase the battery life. Screen brightness will be reduced a little. Or there is a Bluetooth option. Wireless mouse or headphone to connect. Or there is an option of night light. If you work late at night. Then turn it on. This will reduce the blue light of the screen. So that there is no strain on the eyes. And now a pro tip. Here is the option of screen snip. But leave the mouse. Press on the keyboard. Windows plus shift plus S. This shortcut is the favorite of corporate life. Take a screenshot of anything. And immediately paste it on mail or chat. From here you can control the screen brightness. If you lift the slider, the light is less. If you do right, the light is more. Set it according to the comfort of your eyes. So friends, today we understood the tools and their use of taskbar. But now change the look of the taskbar. And advanced windows management is left. The video is getting a little long. So in the next video we will learn. Change the color of the taskbar. Move it to the top or side. And increase the speed with keyboard shortcuts. Don't miss that video. If you like the video, then like it. And subscribe to the channel. See you in the next video."
+}

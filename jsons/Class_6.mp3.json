@@ -1,0 +1,845 @@
+{
+    "chunks": [
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 0.0,
+            "end": 3.8000000000000003,
+            "text": " Hello friends, welcome to the part 6 of computer training course."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 3.8000000000000003,
+            "end": 8.8,
+            "text": " Today we will talk about the most important input device of a computer, the keyboard."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 8.8,
+            "end": 15.4,
+            "text": " Keyboard is the device through which we give data, letters, numbers and commands to the computer."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 15.4,
+            "end": 20.2,
+            "text": " Just like we type on the mobile, the same way typing is done on the computer with the keyboard."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 20.2,
+            "end": 25.0,
+            "text": " When you work on a computer like MS Word, Excel or PowerPoint,"
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 25.0,
+            "end": 29.400000000000002,
+            "text": " then it is very important to have good knowledge of the keyboard to run this program."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 29.4,
+            "end": 35.4,
+            "text": " Because there are many keys in the keyboard and each key has its own special function."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 35.4,
+            "end": 41.4,
+            "text": " If you do not know what is the function of which key, then there will be a problem in typing."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 41.4,
+            "end": 47.4,
+            "text": " So today we will understand every important key of the keyboard so that you can become an expert in typing."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 47.4,
+            "end": 50.4,
+            "text": " So let's start the video without wasting time."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 50.4,
+            "end": 55.4,
+            "text": " Now what you are seeing on the screen is a keyboard of QWERTY layout."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 55.4,
+            "end": 63.4,
+            "text": " Although keyboards come in different layouts like AZT, QWERTY, QWERTY Direct and many more layouts are available in the market."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 63.4,
+            "end": 66.4,
+            "text": " But in India, QWERTY layout is used the most."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 66.4,
+            "end": 71.4,
+            "text": " Now the question is how to find out that the keyboard is of QWERTY layout."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 71.4,
+            "end": 72.4,
+            "text": " It is very simple."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 72.4,
+            "end": 81.4,
+            "text": " If you look at the first 6 alphabet keys of the keyboard, then you will find Q, W, E, R, T, Y written."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 81.4,
+            "end": 83.4,
+            "text": " This is made up of QWERTY."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 83.4,
+            "end": 85.4,
+            "text": " Now let's know about the keyboard key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 85.4,
+            "end": 89.4,
+            "text": " At the top left, you will find the SKIP key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 89.4,
+            "end": 98.4,
+            "text": " This key has many uses like stopping or cancelling a program, exiting a command in an AutoCAD like software,"
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 98.4,
+            "end": 103.4,
+            "text": " closing a pop-up menu or dialog box, exiting from full screen mode."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 103.4,
+            "end": 109.4,
+            "text": " After SKIP key, the keys at the top are called function keys."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 109.4,
+            "end": 113.4,
+            "text": " Their name starts with F from F1 to F12."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 113.4,
+            "end": 119.4,
+            "text": " We can also call them magic keys because their function is different in each program."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 119.4,
+            "end": 122.4,
+            "text": " Let's understand each key in detail."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 122.4,
+            "end": 124.4,
+            "text": " Practically, what are their uses?"
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 124.4,
+            "end": 128.4,
+            "text": " F1 opens the help center of any software."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 128.4,
+            "end": 135.4,
+            "text": " F2 opens the search box to rename a file or folder."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 135.4,
+            "end": 139.4,
+            "text": " F4 closes the program by pressing Alt plus F4."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 139.4,
+            "end": 142.4,
+            "text": " F5 is used to refresh the system."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 142.4,
+            "end": 147.4,
+            "text": " F6 selects the address bar in the browser."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 147.4,
+            "end": 150.4,
+            "text": " F7 changes the spelling in MS Word."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 150.4,
+            "end": 154.4,
+            "text": " F8 is used for the boot option."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 154.4,
+            "end": 158.4,
+            "text": " F9 refreshes the field in MS Word and MS Excel."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 158.4,
+            "end": 161.4,
+            "text": " F10 activates the software menu bar."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 161.4,
+            "end": 166.4,
+            "text": " F11 opens the browser to open the full screen mode."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 166.4,
+            "end": 171.4,
+            "text": " F12 is used to save a file."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 171.4,
+            "end": 176.4,
+            "text": " Some laptops require Fn key to use these keys."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 176.4,
+            "end": 182.4,
+            "text": " There are 10 numbers on the alphabet keys."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 182.4,
+            "end": 185.4,
+            "text": " We can type numbers from here."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 185.4,
+            "end": 191.4,
+            "text": " There are symbols on these keys like at the rate, highest, dollar."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 191.4,
+            "end": 194.4,
+            "text": " If you press these keys with Shift key,"
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 194.4,
+            "end": 197.4,
+            "text": " then symbols will be typed instead of numbers."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 197.4,
+            "end": 199.4,
+            "text": " These keys are called alphabet keys."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 199.4,
+            "end": 203.4,
+            "text": " There are 26 alphabet keys in the keyboard from A to Z."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 203.4,
+            "end": 209.4,
+            "text": " We use these keys to type letters, write words, and make sentences."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 209.4,
+            "end": 212.4,
+            "text": " There are some important keys like Tab key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 212.4,
+            "end": 215.4,
+            "text": " This key takes the cursor to the next spacing block."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 215.4,
+            "end": 220.4,
+            "text": " It is very useful while filling the form to go to the next box."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 220.4,
+            "end": 222.4,
+            "text": " This is the Caps Lock key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 222.4,
+            "end": 225.4,
+            "text": " All letters are capital type keys."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 225.4,
+            "end": 227.4,
+            "text": " This is the Enter key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 227.4,
+            "end": 230.4,
+            "text": " This is used to run a command."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 230.4,
+            "end": 232.4,
+            "text": " This is the Spacebar key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 232.4,
+            "end": 234.4,
+            "text": " This is the biggest key of the keyboard."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 234.4,
+            "end": 237.4,
+            "text": " This is used to give space between words."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 237.4,
+            "end": 240.4,
+            "text": " This is also used in some software like AutoCAD."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 240.4,
+            "end": 243.4,
+            "text": " Let's know about the special keys."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 243.4,
+            "end": 245.4,
+            "text": " These keys are called special keys."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 245.4,
+            "end": 248.4,
+            "text": " These keys do not work alone."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 248.4,
+            "end": 252.4,
+            "text": " They work with other keys."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 252.4,
+            "end": 257.4,
+            "text": " Shift key is used to type capital letters when caps lock is off."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 257.4,
+            "end": 259.4,
+            "text": " This is used to type symbols."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 259.4,
+            "end": 261.4,
+            "text": " Control key is used in shortcut."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 261.4,
+            "end": 266.4,
+            "text": " Control key is used to copy, Ctrl key is used to paste."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 266.4,
+            "end": 269.4,
+            "text": " Alt key is used to open menu and shortcut."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 269.4,
+            "end": 271.4,
+            "text": " This is the Windows key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 271.4,
+            "end": 274.4,
+            "text": " This key is used to open Start menu."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 274.4,
+            "end": 276.4,
+            "text": " This is also used in shortcut."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 276.4,
+            "end": 282.4,
+            "text": " Like opening file explorer from Windows D to Desktop."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 282.4,
+            "end": 287.4,
+            "text": " This key is called Application Key or Context Menu Key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 287.4,
+            "end": 291.4,
+            "text": " This key is used to open the right click menu."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 291.4,
+            "end": 294.4,
+            "text": " This works like right click of the mouse."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 294.4,
+            "end": 296.4,
+            "text": " But with the keyboard."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 296.4,
+            "end": 300.4,
+            "text": " Select a file or text and press this key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 300.4,
+            "end": 302.4,
+            "text": " Context menu opens."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 302.4,
+            "end": 307.4,
+            "text": " As you can see, you can go to Copy, Paste, Delete or Properties."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 307.4,
+            "end": 311.4,
+            "text": " This is a very useful key to work without a mouse."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 311.4,
+            "end": 313.4,
+            "text": " These are navigation keys."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 313.4,
+            "end": 316.4,
+            "text": " These are keys to control the cursor."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 316.4,
+            "end": 319.4,
+            "text": " Up, Down, Right, Left."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 319.4,
+            "end": 321.4,
+            "text": " This is Home key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 321.4,
+            "end": 322.4,
+            "text": " This is Line key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 322.4,
+            "end": 324.4,
+            "text": " This is End key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 324.4,
+            "end": 327.4,
+            "text": " This is Page Up, Page Down."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 327.4,
+            "end": 331.4,
+            "text": " This is Backspace key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 331.4,
+            "end": 333.4,
+            "text": " This is left side of the cursor."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 333.4,
+            "end": 336.4,
+            "text": " This is the text at the back."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 336.4,
+            "end": 338.4,
+            "text": " This is Delete key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 338.4,
+            "end": 341.4,
+            "text": " This is the selected file or text."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 341.4,
+            "end": 344.4,
+            "text": " This is the right side of the cursor."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 344.4,
+            "end": 346.4,
+            "text": " This is Insert key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 346.4,
+            "end": 349.4,
+            "text": " This is the text overwrite mode."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 350.4,
+            "end": 352.4,
+            "text": " To explain this in simple language,"
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 352.4,
+            "end": 356.4,
+            "text": " If you type any text after pressing the Insert key,"
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 356.4,
+            "end": 360.4,
+            "text": " New text will be written instead of old text."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 360.4,
+            "end": 363.4,
+            "text": " Old text will be removed automatically."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 363.4,
+            "end": 367.4,
+            "text": " There is a section like a calculator on the right side of the keyboard."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 367.4,
+            "end": 369.4,
+            "text": " This is called Numeric Keypad."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 369.4,
+            "end": 372.4,
+            "text": " There are numbers from 0 to 9."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 372.4,
+            "end": 374.4,
+            "text": " There are Mathematical symbols."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 374.4,
+            "end": 378.4,
+            "text": " Divide, Multiply, Minus, Plus and Enter."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 378.4,
+            "end": 382.4,
+            "text": " This is for Accounting and Data Entry."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 382.4,
+            "end": 384.4,
+            "text": " If Num Lock is ON,"
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 384.4,
+            "end": 386.4,
+            "text": " Num Lock will type the numbers."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 386.4,
+            "end": 388.4,
+            "text": " If Num Lock is OFF,"
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 388.4,
+            "end": 390.4,
+            "text": " Num Lock will not work."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 390.4,
+            "end": 393.4,
+            "text": " This button will work as a navigation key."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 393.4,
+            "end": 395.4,
+            "text": " These are indicator lights."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 395.4,
+            "end": 398.4,
+            "text": " There are three lights in the top right corner of the keyboard."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 398.4,
+            "end": 402.4,
+            "text": " Num Lock Light indicates whether the number pad is on or off."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 402.4,
+            "end": 407.4,
+            "text": " Caps Lock Light indicates that all letters will be capitalized."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 407.4,
+            "end": 411.4,
+            "text": " Scroll Lock Light indicates that scrolling is locked."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 411.4,
+            "end": 413.4,
+            "text": " So, friends, in today's video,"
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 413.4,
+            "end": 418.4,
+            "text": " you learned about all the keys of the keyboard and their use in detail."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 418.4,
+            "end": 420.4,
+            "text": " If you found the video helpful,"
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 420.4,
+            "end": 423.4,
+            "text": " then like the video, subscribe to the channel,"
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 423.4,
+            "end": 426.4,
+            "text": " and share it with your friends."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 426.4,
+            "end": 428.4,
+            "text": " See you in the next video."
+        },
+        {
+            "number": "6",
+            "title": "Class",
+            "start": 428.4,
+            "end": 430.4,
+            "text": " Till then, bye."
+        }
+    ],
+    "text": " Hello friends, welcome to the part 6 of computer training course. Today we will talk about the most important input device of a computer, the keyboard. Keyboard is the device through which we give data, letters, numbers and commands to the computer. Just like we type on the mobile, the same way typing is done on the computer with the keyboard. When you work on a computer like MS Word, Excel or PowerPoint, then it is very important to have good knowledge of the keyboard to run this program. Because there are many keys in the keyboard and each key has its own special function. If you do not know what is the function of which key, then there will be a problem in typing. So today we will understand every important key of the keyboard so that you can become an expert in typing. So let's start the video without wasting time. Now what you are seeing on the screen is a keyboard of QWERTY layout. Although keyboards come in different layouts like AZT, QWERTY, QWERTY Direct and many more layouts are available in the market. But in India, QWERTY layout is used the most. Now the question is how to find out that the keyboard is of QWERTY layout. It is very simple. If you look at the first 6 alphabet keys of the keyboard, then you will find Q, W, E, R, T, Y written. This is made up of QWERTY. Now let's know about the keyboard key. At the top left, you will find the SKIP key. This key has many uses like stopping or cancelling a program, exiting a command in an AutoCAD like software, closing a pop-up menu or dialog box, exiting from full screen mode. After SKIP key, the keys at the top are called function keys. Their name starts with F from F1 to F12. We can also call them magic keys because their function is different in each program. Let's understand each key in detail. Practically, what are their uses? F1 opens the help center of any software. F2 opens the search box to rename a file or folder. F4 closes the program by pressing Alt plus F4. F5 is used to refresh the system. F6 selects the address bar in the browser. F7 changes the spelling in MS Word. F8 is used for the boot option. F9 refreshes the field in MS Word and MS Excel. F10 activates the software menu bar. F11 opens the browser to open the full screen mode. F12 is used to save a file. Some laptops require Fn key to use these keys. There are 10 numbers on the alphabet keys. We can type numbers from here. There are symbols on these keys like at the rate, highest, dollar. If you press these keys with Shift key, then symbols will be typed instead of numbers. These keys are called alphabet keys. There are 26 alphabet keys in the keyboard from A to Z. We use these keys to type letters, write words, and make sentences. There are some important keys like Tab key. This key takes the cursor to the next spacing block. It is very useful while filling the form to go to the next box. This is the Caps Lock key. All letters are capital type keys. This is the Enter key. This is used to run a command. This is the Spacebar key. This is the biggest key of the keyboard. This is used to give space between words. This is also used in some software like AutoCAD. Let's know about the special keys. These keys are called special keys. These keys do not work alone. They work with other keys. Shift key is used to type capital letters when caps lock is off. This is used to type symbols. Control key is used in shortcut. Control key is used to copy, Ctrl key is used to paste. Alt key is used to open menu and shortcut. This is the Windows key. This key is used to open Start menu. This is also used in shortcut. Like opening file explorer from Windows D to Desktop. This key is called Application Key or Context Menu Key. This key is used to open the right click menu. This works like right click of the mouse. But with the keyboard. Select a file or text and press this key. Context menu opens. As you can see, you can go to Copy, Paste, Delete or Properties. This is a very useful key to work without a mouse. These are navigation keys. These are keys to control the cursor. Up, Down, Right, Left. This is Home key. This is Line key. This is End key. This is Page Up, Page Down. This is Backspace key. This is left side of the cursor. This is the text at the back. This is Delete key. This is the selected file or text. This is the right side of the cursor. This is Insert key. This is the text overwrite mode. To explain this in simple language, If you type any text after pressing the Insert key, New text will be written instead of old text. Old text will be removed automatically. There is a section like a calculator on the right side of the keyboard. This is called Numeric Keypad. There are numbers from 0 to 9. There are Mathematical symbols. Divide, Multiply, Minus, Plus and Enter. This is for Accounting and Data Entry. If Num Lock is ON, Num Lock will type the numbers. If Num Lock is OFF, Num Lock will not work. This button will work as a navigation key. These are indicator lights. There are three lights in the top right corner of the keyboard. Num Lock Light indicates whether the number pad is on or off. Caps Lock Light indicates that all letters will be capitalized. Scroll Lock Light indicates that scrolling is locked. So, friends, in today's video, you learned about all the keys of the keyboard and their use in detail. If you found the video helpful, then like the video, subscribe to the channel, and share it with your friends. See you in the next video. Till then, bye."
+}

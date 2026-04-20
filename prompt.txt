@@ -1,0 +1,6 @@
+I am teaching Computer basics course. Here are video  subtitle chunks containing video title, start time in seconds , end time in seconds, the text at that time:
+
+[{"title":"Class","number":"6","start":41.4,"end":47.4,"text":" So today we will understand every important key of the keyboard so that you can become an expert in typing."},{"title":"Class","number":"1","start":294.08,"end":297.76,"text":" if you want to know about keyboard keys now"},{"title":"Class","number":"3","start":406.0,"end":414.0,"text":" Subscribe to the GIS Tech Guru channel because here the computer is taught in simple Hindi, step by step."},{"title":"Class","number":"6","start":413.4,"end":418.4,"text":" you learned about all the keys of the keyboard and their use in detail."},{"title":"Class","number":"6","start":25.0,"end":29.4,"text":" then it is very important to have good knowledge of the keyboard to run this program."}]
+--------------------------------------------------
+"Where are keyboard basics taught?"
+User asked this question related to video chunks, you have to answer in a human way (don't mention the above format, its just for you) where and how much content is taught in which video (in which video at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course.
