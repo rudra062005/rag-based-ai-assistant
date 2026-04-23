@@ -1,0 +1,8 @@
+audios/
+videos/
+jsons/
+*.mp3
+*.json
+*.joblib
+__pycache__/
+.env
